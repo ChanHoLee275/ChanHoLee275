@@ -1,6 +1,12 @@
 ### Hi there 👋
 
+### GitHub stats
 [![Anurag's github stats](https://github-readme-stats.vercel.app/api?username=ChanHoLee275&show_icons=true&theme=dart)](https://github.com/ChanHoLee275/github-readme-stats)
+
+### BAEKJOON
+[![solved.ac tier](http://mazassumnida.wtf/api/generate_badge?boj=chanholee275)](https://solved.ac/chanholee275)
+[![solved.ac tier](http://mazassumnida.wtf/api/v2/generate_badge?boj=chanholee275)](https://solved.ac/chanholee275)
+[![solved.ac tier](http://mazassumnida.wtf/api/mini/generate_badge?boj=chanholee275)](https://solved.ac/chanholee275)
 
 <!--
 **ChanHoLee275/ChanHoLee275** is a ✨ _special_ ✨ repository because its `README.md` (this file) appears on your GitHub profile.
