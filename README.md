@@ -1,6 +1,6 @@
 ### Hi there 👋
 
-[![Anurag's github stats](https://github-readme-stats.vercel.app/api?username={username}&show_icons=true&theme={theme})](https://github.com/{username}/github-readme-stats)
+[![Anurag's github stats](https://github-readme-stats.vercel.app/api?username=ChanHoLee275&show_icons=true&theme=dart)](https://github.com/ChanHoLee275/github-readme-stats)
 
 <!--
 **ChanHoLee275/ChanHoLee275** is a ✨ _special_ ✨ repository because its `README.md` (this file) appears on your GitHub profile.
